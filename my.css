@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    position: absolute;
+    display: flex;
+}
+
+
+
+#r {
+    font-size: large;
+    font-style: italic;
+    position: relative;
+    background-color: aquamarine;
+    color: blue;
+}
+
+#maindiv {
+    text-align: center;
+    position: relative;
+    opacity: 0.5;
+    height: auto;
+    width: 600px;
+    background-color: antiquewhite;
+    
+
+}
